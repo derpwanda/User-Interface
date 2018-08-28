@@ -65,16 +65,38 @@ h1, h2, h3, h4, h5 {
 
 /* Your code starts here! */
 
-.logo {
+.navigation {
+	color: black;
+	border: 1px solid red;
+}
+
+nav .logo {
+	padding: 10px;
+	border: 1px solid green;
+	margin: 5px;
 
 }
 
-.navigation {
-	margin: 0 5px;
-	padding: 10px;
+header {
+	border: 1px solid red;	
+}
 
-	display: auto;
+.content1 {
+	border: 1px solid red;
+}
 
-	color: black;
+.middle-img {
+	border: 1px solid red;
+}
+
+.content2 {
+	border: 1px solid red;
+}
+
+address {
+	border: 1px solid red;
+}
+
+footer {
 	border: 1px solid red;
 }
